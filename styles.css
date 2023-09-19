@@ -2,41 +2,35 @@
 
 body{
     background-color: #7f694c;
-}
-
-.mainpage{
-    width: 1000px;
-    height: 400px;
-    margin: 200px auto;
-    background-color: rgb(224, 200, 138);
-    padding: 16px;
     font-family: DejaVu Sans Mono, monospace;
+    color: rgba(4, 3, 3, 0.692);
 }
 
 .title {
-    font-size: 40px;
+    width: 400px;
+    background-color: rgba(25, 12, 12, 0.647);
     color: beige;
     text-align: center;
     margin: auto;
+}
+.main.title{
+    font-size: 40px;
     margin-top: 0px;
-    width: 400px;
-    background-color: #190c0ca5;
+}
+.title.long{
+    width: 600px;
 }
 
-.links {
+.linksbox {
+    background-color: rgba(25, 12, 12, 0.647);
+    padding: 0px;
+    margin: 50px auto;
+    width: 600px;
     text-align: center;
-    background-color: #190c0ca5;
-    padding: 45px;
+    padding: 40px;
     font-size: 24px;
 }
-
-.banana,
-.quesadilla,
-.ramen{
-    background-color: beige;
-    padding: 8px;
-    margin-left: 200px;
-    margin-right: 200px;
-
+a{
+  color:beige;  
 }
 
