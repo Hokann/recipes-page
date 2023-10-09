@@ -1,4 +1,3 @@
 # recipes-page
-This project consists in makeing a simple website for 3 different food recipes. 
+Simple html pages of cooking recipes. 
 
-hokann.github.io/recipes-page
